@@ -13,11 +13,22 @@ A free, professionally written pack of **cover letter templates (DOCX)** you can
 
 All files are in `/templates`:
 
-- **Construction Manager Cover Letter** — highlights leadership, safety, and project experience.  
-- **Data Scientist Cover Letter** — emphasizes statistical modeling, visualization, and problem-solving.  
-- **Electrical Engineer Cover Letter** — focuses on technical expertise and innovation in engineering.  
-- **File Clerk Cover Letter** — strong on organization, confidentiality, and data entry skills.  
-- **Housekeeper Cover Letter** — showcases attention to detail, teamwork, and reliability.  
+- **Construction Manager Cover Letter** — highlights leadership, safety, and project experience. It demonstrates project management skills and the ability to drive revenue growth.  
+- **Data Scientist Cover Letter** — emphasizes statistical modeling, visualization, and problem-solving. It also shows adaptability and a commitment to continuous learning.  
+- **Electrical Engineer Cover Letter** — focuses on technical expertise and innovation in engineering. It underlines teamwork and the ability to supervise projects effectively.  
+- **File Clerk Cover Letter** — strong on organization, confidentiality, and data entry skills. It highlights experience with document management and attention to compliance.  
+- **Housekeeper Cover Letter** — showcases attention to detail, teamwork, and reliability. It emphasizes physical stamina and the ability to maintain high-quality standards.  
+- **Account Executive Cover Letter** — demonstrates client acquisition, communication, and sales strategy. It also illustrates leadership in building and managing sales teams.  
+- **Account Manager Cover Letter** — emphasizes relationship management, retention, and client satisfaction. It includes examples of client portfolio success and long-term partnerships.  
+- **Accountant Cover Letter** — highlights financial reporting, accuracy, and compliance. It shows proficiency in accounting software and the ability to optimize processes.  
+- **Accounting Assistant Cover Letter** — supports bookkeeping, transactions, and team collaboration. It reflects initiative in improving efficiency and supporting senior accountants.  
+- **Accounting Clerk Cover Letter** — shows accuracy, multitasking, and strong computer skills. It emphasizes practical office experience and the ability to handle high volumes of data.  
+- **Accounting Intern Cover Letter** — emphasizes academic foundation, eagerness to learn, and adaptability. It also highlights extracurricular leadership and strong reviews from mentors.  
+- **Accounting Manager Cover Letter** — combines compliance expertise with leadership and staff development. It shows ability to implement training programs and guide junior staff.  
+- **Accounts Payable Clerk Cover Letter** — focuses on invoicing, vendor communication, and process efficiency. It illustrates the ability to reduce collection times and improve workflows.  
+- **Actor Cover Letter** — showcases stage/film experience, creativity, and community theater work. It emphasizes versatility and commitment to making theater accessible for all.  
+- **Actuary Cover Letter** — emphasizes risk analysis, financial forecasting, and technical expertise. It highlights success in driving profitability and implementing new systems.  
+- **Adjunct Instructor Cover Letter** — highlights teaching, research, and curriculum development in academia. It shows success in engaging students and developing effective course materials.  
 
 > File format: `.docx` (works with Word/Docs/Pages). Add your details and export to PDF.
 
